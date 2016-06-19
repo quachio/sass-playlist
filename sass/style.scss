@@ -1,0 +1,23 @@
+$red: #f00;
+$blue: #132e8f;
+$pink: #cf40a2;
+
+.rule {
+  color: $red;
+
+  a {
+    color: $blue;
+
+    span {
+      color: $pink;
+    }
+  }
+}
+
+.rule2 {
+  color: $blue;
+}
+
+.rule3 {
+  color: $pink;
+}
